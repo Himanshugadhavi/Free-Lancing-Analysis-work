@@ -1,0 +1,461 @@
+ANOVA$`Leaf length`
+$`Leaf length`[[1]]
+Analysis of Variance Table
+
+Response: data2
+            Df Sum Sq Mean Sq F value    Pr(>F)    
+replication  2  0.247  0.1237   2.464    0.1082    
+genotype    11 35.371  3.2155  64.036 4.304e-14 ***
+Residuals   22  1.105  0.0502                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Leaf length`[[2]]
+                                            A
+Maximum                                8.7800
+Minimum                                4.2800
+Grand Mean                             6.1573
+Standard Error of Mean (SEm)           0.1294
+Critical Difference (CD) 5%            0.3794
+Critical Difference (CD) 1%            0.5157
+Environmental Variance                 0.0502
+Genotypic Variance                     1.0551
+Phenotypic Variance                    1.1053
+Environmental Coefficient of Variance  3.6394
+Genotypic Coefficient of Variance     16.6824
+Phenotypic Coefficient of Variance    17.0747
+Heritability (Broad Sense)             0.9546
+Genetic Advance                        2.0674
+Genetic Advance as percentage of mean 33.5766
+
+
+$`PLANT HEIGHT`
+$`PLANT HEIGHT`[[1]]
+Analysis of Variance Table
+
+Response: data2
+            Df Sum Sq Mean Sq F value  Pr(>F)    
+replication  2   0.91  0.4556   4.598 0.02146 *  
+genotype    11 329.90 29.9910 302.646 < 2e-16 ***
+Residuals   22   2.18  0.0991                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`PLANT HEIGHT`[[2]]
+                                            A
+Maximum                               31.3933
+Minimum                               19.3133
+Grand Mean                            24.8256
+Standard Error of Mean (SEm)           0.1817
+Critical Difference (CD) 5%            0.5330
+Critical Difference (CD) 1%            0.7245
+Environmental Variance                 0.0991
+Genotypic Variance                     9.9640
+Phenotypic Variance                   10.0631
+Environmental Coefficient of Variance  1.2680
+Genotypic Coefficient of Variance     12.7150
+Phenotypic Coefficient of Variance    12.7781
+Heritability (Broad Sense)             0.9902
+Genetic Advance                        6.4705
+Genetic Advance as percentage of mean 26.0639
+
+
+$`NO. OF LEAF`
+$`NO. OF LEAF`[[1]]
+Analysis of Variance Table
+
+Response: data2
+            Df Sum Sq Mean Sq  F value Pr(>F)    
+replication  2   0.05   0.025   0.0979 0.9071    
+genotype    11 880.98  80.089 314.0757 <2e-16 ***
+Residuals   22   5.61   0.255                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`NO. OF LEAF`[[2]]
+                                            A
+Maximum                               29.6667
+Minimum                                9.1667
+Grand Mean                            12.8660
+Standard Error of Mean (SEm)           0.2915
+Critical Difference (CD) 5%            0.8551
+Critical Difference (CD) 1%            1.1622
+Environmental Variance                 0.2550
+Genotypic Variance                    26.6114
+Phenotypic Variance                   26.8664
+Environmental Coefficient of Variance  3.9249
+Genotypic Coefficient of Variance     40.0950
+Phenotypic Coefficient of Variance    40.2866
+Heritability (Broad Sense)             0.9905
+Genetic Advance                       10.5762
+Genetic Advance as percentage of mean 82.2026
+
+
+$`seed weight`
+$`seed weight`[[1]]
+Analysis of Variance Table
+
+Response: data2
+            Df Sum Sq Mean Sq  F value Pr(>F)    
+replication  2 0.0166 0.00830   1.8062 0.1878    
+genotype    11 7.3917 0.67197 146.1848 <2e-16 ***
+Residuals   22 0.1011 0.00460                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`seed weight`[[2]]
+                                            A
+Maximum                                3.8000
+Minimum                                2.1100
+Grand Mean                             2.4339
+Standard Error of Mean (SEm)           0.0391
+Critical Difference (CD) 5%            0.1148
+Critical Difference (CD) 1%            0.1560
+Environmental Variance                 0.0046
+Genotypic Variance                     0.2225
+Phenotypic Variance                    0.2271
+Environmental Coefficient of Variance  2.7856
+Genotypic Coefficient of Variance     19.3805
+Phenotypic Coefficient of Variance    19.5798
+Heritability (Broad Sense)             0.9797
+Genetic Advance                        0.9618
+Genetic Advance as percentage of mean 39.5170
+
+
+$`fresh weight of tuber`
+$`fresh weight of tuber`[[1]]
+Analysis of Variance Table
+
+Response: data2
+            Df Sum Sq Mean Sq F value    Pr(>F)    
+replication  2 0.0006 0.00030  0.0181    0.9821    
+genotype    11 5.5491 0.50446 30.1041 1.046e-10 ***
+Residuals   22 0.3687 0.01676                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`fresh weight of tuber`[[2]]
+                                            A
+Maximum                                3.4000
+Minimum                                1.6000
+Grand Mean                             2.2069
+Standard Error of Mean (SEm)           0.0747
+Critical Difference (CD) 5%            0.2192
+Critical Difference (CD) 1%            0.2979
+Environmental Variance                 0.0168
+Genotypic Variance                     0.1626
+Phenotypic Variance                    0.1794
+Environmental Coefficient of Variance  5.8656
+Genotypic Coefficient of Variance     18.2713
+Phenotypic Coefficient of Variance    19.1920
+Heritability (Broad Sense)             0.9064
+Genetic Advance                        0.7908
+Genetic Advance as percentage of mean 35.8323
+
+
+$`dry weight of tuber`
+$`dry weight of tuber`[[1]]
+Analysis of Variance Table
+
+Response: data2
+            Df  Sum Sq  Mean Sq F value    Pr(>F)    
+replication  2 0.01091 0.005453  0.6414    0.5361    
+genotype    11 2.42852 0.220775 25.9696 4.577e-10 ***
+Residuals   22 0.18703 0.008501                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`dry weight of tuber`[[2]]
+                                             A
+Maximum                                 1.5800
+Minimum                                 0.2300
+Grand Mean                              0.3961
+Standard Error of Mean (SEm)            0.0532
+Critical Difference (CD) 5%             0.1561
+Critical Difference (CD) 1%             0.2122
+Environmental Variance                  0.0085
+Genotypic Variance                      0.0708
+Phenotypic Variance                     0.0793
+Environmental Coefficient of Variance  23.2769
+Genotypic Coefficient of Variance      67.1738
+Phenotypic Coefficient of Variance     71.0918
+Heritability (Broad Sense)              0.8928
+Genetic Advance                         0.5179
+Genetic Advance as percentage of mean 130.7461
+
+
+$`Tuber length`
+$`Tuber length`[[1]]
+Analysis of Variance Table
+
+Response: data2
+            Df  Sum Sq Mean Sq F value   Pr(>F)    
+replication  2  0.3489 0.17444  2.6206  0.09531 .  
+genotype    11 25.3622 2.30566 34.6373 2.53e-11 ***
+Residuals   22  1.4644 0.06657                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`Tuber length`[[2]]
+                                            A
+Maximum                                6.0000
+Minimum                                1.8000
+Grand Mean                             3.4889
+Standard Error of Mean (SEm)           0.1490
+Critical Difference (CD) 5%            0.4369
+Critical Difference (CD) 1%            0.5938
+Environmental Variance                 0.0666
+Genotypic Variance                     0.7464
+Phenotypic Variance                    0.8130
+Environmental Coefficient of Variance  7.3950
+Genotypic Coefficient of Variance     24.7627
+Phenotypic Coefficient of Variance    25.8439
+Heritability (Broad Sense)             0.9181
+Genetic Advance                        1.7053
+Genetic Advance as percentage of mean 48.8780
+
+
+$`number of flower`
+$`number of flower`[[1]]
+Analysis of Variance Table
+
+Response: data2
+            Df  Sum Sq Mean Sq  F value  Pr(>F)    
+replication  2    3.17   1.585   2.7272 0.08748 .  
+genotype    11 1228.51 111.683 192.1990 < 2e-16 ***
+Residuals   22   12.78   0.581                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`number of flower`[[2]]
+                                             A
+Maximum                                30.9600
+Minimum                                 7.4500
+Grand Mean                             11.4008
+Standard Error of Mean (SEm)            0.4401
+Critical Difference (CD) 5%             1.2908
+Critical Difference (CD) 1%             1.7544
+Environmental Variance                  0.5811
+Genotypic Variance                     37.0340
+Phenotypic Variance                    37.6151
+Environmental Coefficient of Variance   6.6862
+Genotypic Coefficient of Variance      53.3782
+Phenotypic Coefficient of Variance     53.7953
+Heritability (Broad Sense)              0.9846
+Genetic Advance                        12.4390
+Genetic Advance as percentage of mean 109.1061
+
+
+$`number of fruit`
+$`number of fruit`[[1]]
+Analysis of Variance Table
+
+Response: data2
+            Df Sum Sq Mean Sq  F value  Pr(>F)    
+replication  2   3.25   1.624   3.3756 0.05265 .  
+genotype    11 844.67  76.788 159.6455 < 2e-16 ***
+Residuals   22  10.58   0.481                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`number of fruit`[[2]]
+                                             A
+Maximum                                25.9100
+Minimum                                 5.9000
+Grand Mean                             10.0572
+Standard Error of Mean (SEm)            0.4004
+Critical Difference (CD) 5%             1.1744
+Critical Difference (CD) 1%             1.5962
+Environmental Variance                  0.4810
+Genotypic Variance                     25.4358
+Phenotypic Variance                    25.9168
+Environmental Coefficient of Variance   6.8959
+Genotypic Coefficient of Variance      50.1470
+Phenotypic Coefficient of Variance     50.6189
+Heritability (Broad Sense)              0.9814
+Genetic Advance                        10.2925
+Genetic Advance as percentage of mean 102.3394
+
+
+$`number of seed/fruit`
+$`number of seed/fruit`[[1]]
+Analysis of Variance Table
+
+Response: data2
+            Df  Sum Sq Mean Sq  F value  Pr(>F)    
+replication  2    6.81   3.407   4.6241 0.02107 *  
+genotype    11 2164.11 196.737 266.9819 < 2e-16 ***
+Residuals   22   16.21   0.737                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$`number of seed/fruit`[[2]]
+                                            A
+Maximum                               46.7500
+Minimum                               12.8450
+Grand Mean                            19.4418
+Standard Error of Mean (SEm)           0.4956
+Critical Difference (CD) 5%            1.4536
+Critical Difference (CD) 1%            1.9757
+Environmental Variance                 0.7369
+Genotypic Variance                    65.3335
+Phenotypic Variance                   66.0704
+Environmental Coefficient of Variance  4.4154
+Genotypic Coefficient of Variance     41.5749
+Phenotypic Coefficient of Variance    41.8087
+Heritability (Broad Sense)             0.9888
+Genetic Advance                       16.5577
+Genetic Advance as percentage of mean 85.1654
+
+
+Genotypic correlations$GenotypicCorrelation
+                      Leaf length PLANT HEIGHT NO. OF LEAF seed weight
+Leaf length           1 **        0.9459 **    0.8965 **   0.8651 **  
+PLANT HEIGHT          0.9459 **   1 **         0.7853 **   0.8428 **  
+NO. OF LEAF           0.8965 **   0.7853 **    1 **        0.9611 **  
+seed weight           0.8651 **   0.8428 **    0.9611 **   1 **       
+fresh weight of tuber 0.9803 **   0.9966 **    0.8567 **   0.913 **   
+dry weight of tuber   0.893 **    0.7484 **    1.0094 **   0.9531 **  
+Tuber length          0.9856 **   0.9305 **    0.9621 **   0.967 **   
+number of flower      -0.0759 NS  -0.1238 NS   -0.1981 NS  -0.2381 NS 
+number of fruit       -0.0904 NS  -0.1343 NS   -0.2067 NS  -0.2473 NS 
+number of seed/fruit  -0.0854 NS  -0.1448 NS   -0.186 NS   -0.2289 NS 
+                      fresh weight of tuber dry weight of tuber Tuber length
+Leaf length           0.9803 **             0.893 **            0.9856 **   
+PLANT HEIGHT          0.9966 **             0.7484 **           0.9305 **   
+NO. OF LEAF           0.8567 **             1.0094 **           0.9621 **   
+seed weight           0.913 **              0.9531 **           0.967 **    
+fresh weight of tuber 1 **                  0.8146 **           0.9856 **   
+dry weight of tuber   0.8146 **             1 **                0.9671 **   
+Tuber length          0.9856 **             0.9671 **           1 **        
+number of flower      -0.1687 NS            -0.1775 NS          -0.1073 NS  
+number of fruit       -0.1844 NS            -0.1867 NS          -0.1222 NS  
+number of seed/fruit  -0.1852 NS            -0.1618 NS          -0.1134 NS  
+                      number of flower number of fruit number of seed/fruit
+Leaf length           -0.0759 NS       -0.0904 NS      -0.0854 NS          
+PLANT HEIGHT          -0.1238 NS       -0.1343 NS      -0.1448 NS          
+NO. OF LEAF           -0.1981 NS       -0.2067 NS      -0.186 NS           
+seed weight           -0.2381 NS       -0.2473 NS      -0.2289 NS          
+fresh weight of tuber -0.1687 NS       -0.1844 NS      -0.1852 NS          
+dry weight of tuber   -0.1775 NS       -0.1867 NS      -0.1618 NS          
+Tuber length          -0.1073 NS       -0.1222 NS      -0.1134 NS          
+number of flower      1 **             0.9994 **       0.9997 **           
+number of fruit       0.9994 **        1 **            1.0005 **           
+number of seed/fruit  0.9997 **        1.0005 **       1 **                
+
+$Note1
+[1] "The sig of genotypic correlation was tested using t test (two-tail). The degree of freedom used is number of genotypes - 2"
+
+$Note2
+[1] "If NaNs are produced checkout for negative genotypic variance for one or more traits"
+
+Phenotypic correlations$PhenotypicCorrelation
+                      Leaf length PLANT HEIGHT NO. OF LEAF seed weight
+Leaf length           1 **        0.9242 **    0.869 **    0.833 **   
+PLANT HEIGHT          0.9242 **   1 **         0.775 **    0.8362 **  
+NO. OF LEAF           0.869 **    0.775 **     1 **        0.941 **   
+seed weight           0.833 **    0.8362 **    0.941 **    1 **       
+fresh weight of tuber 0.896 **    0.9392 **    0.8277 **   0.8482 **  
+dry weight of tuber   0.8162 **   0.7047 **    0.9685 **   0.8936 **  
+Tuber length          0.934 **    0.8834 **    0.9265 **   0.89 **    
+number of flower      -0.0694 NS  -0.1216 NS   -0.197 NS   -0.234 NS  
+number of fruit       -0.0805 NS  -0.132 NS    -0.2048 NS  -0.2416 NS 
+number of seed/fruit  -0.0867 NS  -0.1421 NS   -0.1863 NS  -0.2257 NS 
+                      fresh weight of tuber dry weight of tuber Tuber length
+Leaf length           0.896 **              0.8162 **           0.934 **    
+PLANT HEIGHT          0.9392 **             0.7047 **           0.8834 **   
+NO. OF LEAF           0.8277 **             0.9685 **           0.9265 **   
+seed weight           0.8482 **             0.8936 **           0.89 **     
+fresh weight of tuber 1 **                  0.7958 **           0.915 **    
+dry weight of tuber   0.7958 **             1 **                0.8689 **   
+Tuber length          0.915 **              0.8689 **           1 **        
+number of flower      -0.1604 NS            -0.1652 NS          -0.1155 NS  
+number of fruit       -0.1811 NS            -0.175 NS           -0.1318 NS  
+number of seed/fruit  -0.1822 NS            -0.1519 NS          -0.1117 NS  
+                      number of flower number of fruit number of seed/fruit
+Leaf length           -0.0694 NS       -0.0805 NS      -0.0867 NS          
+PLANT HEIGHT          -0.1216 NS       -0.132 NS       -0.1421 NS          
+NO. OF LEAF           -0.197 NS        -0.2048 NS      -0.1863 NS          
+seed weight           -0.234 NS        -0.2416 NS      -0.2257 NS          
+fresh weight of tuber -0.1604 NS       -0.1811 NS      -0.1822 NS          
+dry weight of tuber   -0.1652 NS       -0.175 NS       -0.1519 NS          
+Tuber length          -0.1155 NS       -0.1318 NS      -0.1117 NS          
+number of flower      1 **             0.9972 **       0.9862 **           
+number of fruit       0.9972 **        1 **            0.9834 **           
+number of seed/fruit  0.9862 **        0.9834 **       1 **                
+
+$Note
+[1] "The sig of phenotypic correlation was tested using t test (two-tail). The degree of freedom used is (genotypes*replication) - 2"
+
+Genotypic path analysis$Effects
+                      Leaf length PLANT HEIGHT NO. OF LEAF seed weight
+Leaf length              -0.35440      0.22121     0.33431    -0.18323
+PLANT HEIGHT             -0.33521      0.23387     0.29285    -0.17851
+NO. OF LEAF              -0.31771      0.18365     0.37291    -0.20356
+seed weight              -0.30658      0.19710     0.35840    -0.21181
+fresh weight of tuber    -0.34740      0.23307     0.31948    -0.19337
+dry weight of tuber      -0.31646      0.17502     0.37643    -0.20187
+Tuber length             -0.34928      0.21762     0.35878    -0.20482
+number of flower          0.02688     -0.02895    -0.07386     0.05043
+number of fruit           0.03205     -0.03140    -0.07709     0.05238
+                      fresh weight of tuber dry weight of tuber Tuber length
+Leaf length                        -0.10756            -0.01957      0.09312
+PLANT HEIGHT                       -0.10935            -0.01640      0.08791
+NO. OF LEAF                        -0.09400            -0.02212      0.09090
+seed weight                        -0.10017            -0.02089      0.09136
+fresh weight of tuber              -0.10972            -0.01785      0.09312
+dry weight of tuber                -0.08938            -0.02192      0.09137
+Tuber length                       -0.10814            -0.02119      0.09448
+number of flower                    0.01851             0.00389     -0.01014
+number of fruit                     0.02024             0.00409     -0.01155
+                      number of flower number of fruit
+Leaf length                   -0.11633         0.04710
+PLANT HEIGHT                  -0.18986         0.06992
+NO. OF LEAF                   -0.30372         0.10766
+seed weight                   -0.36514         0.12880
+fresh weight of tuber         -0.25864         0.09606
+dry weight of tuber           -0.27221         0.09726
+Tuber length                  -0.16451         0.06365
+number of flower               1.53348        -0.52050
+number of fruit                1.53258        -0.52080
+
+$Residual
+       [,1]
+[1,] -7e-04
+
+Phenotypic path analyis$Effects
+                      Leaf length PLANT HEIGHT NO. OF LEAF seed weight
+Leaf length              -0.22801      0.19629    -0.15647    -0.01664
+PLANT HEIGHT             -0.21083      0.21234    -0.13954    -0.01672
+NO. OF LEAF              -0.19818      0.16454    -0.18007    -0.01881
+seed weight              -0.18983      0.17754    -0.16943    -0.01999
+fresh weight of tuber    -0.20436      0.19928    -0.14903    -0.01694
+dry weight of tuber      -0.18643      0.14951    -0.17433    -0.01788
+Tuber length             -0.21316      0.18760    -0.16684    -0.01778
+number of flower          0.01581     -0.02582     0.03547     0.00468
+number of fruit           0.01836     -0.02803     0.03688     0.00483
+                      fresh weight of tuber dry weight of tuber Tuber length
+Leaf length                        -0.27376             0.19157      0.26553
+PLANT HEIGHT                       -0.28675             0.16502      0.25101
+NO. OF LEAF                        -0.25286             0.22689      0.26323
+seed weight                        -0.25885             0.20957      0.25258
+fresh weight of tuber              -0.30486             0.18668      0.25962
+dry weight of tuber                -0.24336             0.23348      0.24616
+Tuber length                       -0.27920             0.20306      0.28411
+number of flower                    0.04904            -0.03867     -0.03284
+number of fruit                     0.05527            -0.04104     -0.03745
+                      number of flower number of fruit
+Leaf length                   -0.08294         0.01762
+PLANT HEIGHT                  -0.14553         0.02889
+NO. OF LEAF                   -0.23577         0.04482
+seed weight                   -0.28005         0.05285
+fresh weight of tuber         -0.19208         0.03959
+dry weight of tuber           -0.19747         0.03832
+Tuber length                  -0.13835         0.02885
+number of flower               1.19678        -0.21825
+number of fruit                1.19343        -0.21886
+
+$Residual
+      [,1]
+[1,] 0.019
+

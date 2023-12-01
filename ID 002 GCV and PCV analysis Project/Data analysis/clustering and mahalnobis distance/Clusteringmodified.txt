@@ -1,0 +1,176 @@
+K means with 2 fixed clustersK-means clustering with 2 clusters of sizes 11, 1
+
+Cluster means:
+  Leaf length PLANT HEIGHT NO. OF LEAF seed weight fresh weight of tuber
+1  -0.2227013     -0.21363  -0.2743847  -0.2502937            -0.2539318
+2   2.4497139      2.34993   3.0182321   2.7532307             2.7932496
+  dry weight of tuber Tuber length number of flower number of fruit
+1          -0.2805165   -0.2516275        -0.273897      -0.2782107
+2           3.0856814    2.7679020         3.012868       3.0603180
+  number of seed/fruit
+1           -0.2214163
+2            2.4355791
+
+Clustering vector:
+ [1] 1 1 1 2 1 1 1 1 1 1 1 1
+
+Within cluster sum of squares by cluster:
+[1] 25.3747  0.0000
+ (between_SS / total_SS =  76.9 %)
+
+Available components:
+
+[1] "cluster"      "centers"      "totss"        "withinss"     "tot.withinss"
+[6] "betweenss"    "size"         "iter"         "ifault"      
+means for clusters from k means clusteringK-means clustering with 2 clusters of sizes 1, 11
+
+Cluster means:
+  Leaf length PLANT HEIGHT NO. OF LEAF seed weight fresh weight of tuber
+1   2.4497139      2.34993   3.0182321   2.7532307             2.7932496
+2  -0.2227013     -0.21363  -0.2743847  -0.2502937            -0.2539318
+  dry weight of tuber Tuber length number of flower number of fruit
+1           3.0856814    2.7679020         3.012868       3.0603180
+2          -0.2805165   -0.2516275        -0.273897      -0.2782107
+  number of seed/fruit
+1            2.4355791
+2           -0.2214163
+
+Clustering vector:
+ [1] 2 2 2 1 2 2 2 2 2 2 2 2
+
+Within cluster sum of squares by cluster:
+[1]  0.0000 25.3747
+ (between_SS / total_SS =  76.9 %)
+
+Available components:
+
+[1] "cluster"      "centers"      "totss"        "withinss"     "tot.withinss"
+[6] "betweenss"    "size"         "iter"         "ifault"      
+hierarchical clustering
+Call:
+hclust(d = d, method = "ward.D2")
+
+Cluster method   : ward.D2 
+Distance         : euclidean 
+Number of objects: 12 
+
+hierarchical clustering means [1] 1 1 1 2 1 1 1 1 1 1 1 1
+k means cluster distance$intracls.complete
+     c1       c2
+[1,]  0 4.890157
+
+$intracls.average
+     c1       c2
+[1,]  0 1.924178
+
+$intracls.centroid
+     c1       c2
+[1,]  0 1.316144
+
+$intercls.single
+         c1       c2
+c1 0.000000 7.152837
+c2 7.152837 0.000000
+
+$intercls.complete
+         c1       c2
+c1  0.00000 11.52951
+c2 11.52951  0.00000
+
+$intercls.average
+         c1       c2
+c1 0.000000 9.636228
+c2 9.636228 0.000000
+
+$intercls.centroid
+         c1       c2
+c1 0.000000 9.608252
+c2 9.608252 0.000000
+
+$intercls.ave_to_cent
+         c1       c2
+c1 0.000000 9.633897
+c2 9.633897 0.000000
+
+$intercls.hausdorff
+         c1       c2
+c1  0.00000 7.152837
+c2 11.52951 0.000000
+
+$cluster.center
+         [,1]     [,2]       [,3]       [,4]       [,5]       [,6]       [,7]
+c1  2.4497139  2.34993  3.0182321  2.7532307  2.7932496  3.0856814  2.7679020
+c2 -0.2227013 -0.21363 -0.2743847 -0.2502937 -0.2539318 -0.2805165 -0.2516275
+        [,8]       [,9]      [,10]
+c1  3.012868  3.0603180  2.4355791
+c2 -0.273897 -0.2782107 -0.2214163
+
+$cluster.size
+[1]  1 11
+
+attr(,"class")
+[1] "cls.list"
+hierarchical cluster distances$intracls.complete
+           c1 c2
+[1,] 4.890157  0
+
+$intracls.average
+           c1 c2
+[1,] 1.924178  0
+
+$intracls.centroid
+           c1 c2
+[1,] 1.316144  0
+
+$intercls.single
+         c1       c2
+c1 0.000000 7.152837
+c2 7.152837 0.000000
+
+$intercls.complete
+         c1       c2
+c1  0.00000 11.52951
+c2 11.52951  0.00000
+
+$intercls.average
+         c1       c2
+c1 0.000000 9.636228
+c2 9.636228 0.000000
+
+$intercls.centroid
+         c1       c2
+c1 0.000000 9.608252
+c2 9.608252 0.000000
+
+$intercls.ave_to_cent
+         c1       c2
+c1 0.000000 9.633897
+c2 9.633897 0.000000
+
+$intercls.hausdorff
+         c1       c2
+c1 0.000000 11.52951
+c2 7.152837  0.00000
+
+$cluster.center
+         [,1]     [,2]       [,3]       [,4]       [,5]       [,6]       [,7]
+c1 -0.2227013 -0.21363 -0.2743847 -0.2502937 -0.2539318 -0.2805165 -0.2516275
+c2  2.4497139  2.34993  3.0182321  2.7532307  2.7932496  3.0856814  2.7679020
+        [,8]       [,9]      [,10]
+c1 -0.273897 -0.2782107 -0.2214163
+c2  3.012868  3.0603180  2.4355791
+
+$cluster.size
+[1] 11  1
+
+attr(,"class")
+[1] "cls.list"
+cluster means  Group.1 Leaf length PLANT HEIGHT NO. OF LEAF seed weight
+1       1    8.442407     26.57537    23.00556    3.771667
+2       2    5.785530     19.81382    10.59609    2.266515
+  fresh weight of tuber dry weight of tuber Tuber length number of flower
+1              3.966667           1.3433333     5.900000        26.803333
+2              2.122121           0.3478788     3.190909         9.378788
+  number of fruit number of seed/fruit
+1       24.920000             22.45000
+2        8.148045             16.44939
